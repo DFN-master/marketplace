@@ -5,6 +5,7 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
+    "push": "git add . && git commit -m \"Autoguardado. Backend.\" && git push",
     "start": "node ./src/app.js",
     "dev": "nodemon ./src/app.js"
   },

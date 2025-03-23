@@ -20,23 +20,8 @@ Experiencia de Compra Optimizada: La combinación de filtros eficientes y recome
 
 ## Colaboradores
 
-<a href="https://www.linkedin.com/in/nicolasadelramos/" target="_blank">
-<img src="https://img.shields.io/badge/-Nicolás%20Ramos-0A66C2?logo=linkedin">
-</a>
-<a href="https://www.linkedin.com/in/nicolasadelramos/" target="_blank">
-<img src="https://img.shields.io/badge/-Nicolás%20Ramos-0A66C2?logo=linkedin">
-</a>
-<a href="https://www.linkedin.com/in/nicolasadelramos/" target="_blank">
-<img src="https://img.shields.io/badge/-Nicolás%20Ramos-0A66C2?logo=linkedin">
-</a>
-<a href="https://www.linkedin.com/in/nicolasadelramos/" target="_blank">
-<img src="https://img.shields.io/badge/-Nicolás%20Ramos-0A66C2?logo=linkedin">
-</a>
-<a href="https://www.linkedin.com/in/nicolasadelramos/" target="_blank">
-<img src="https://img.shields.io/badge/-Nicolás%20Ramos-0A66C2?logo=linkedin">
-</a>
-<a href="https://www.linkedin.com/in/nicolasadelramos/" target="_blank">
-<img src="https://img.shields.io/badge/-Nicolás%20Ramos-0A66C2?logo=linkedin">
+<a href="https://www.linkedin.com/in/benjamin-peyraga-53812a163/" target="_blank">
+<img src="https://img.shields.io/badge/-Benjamin%20Peyraga-0A66C2?logo=linkedin">
 </a>
 
 ## Tecnologías
