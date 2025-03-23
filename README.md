@@ -1,6 +1,8 @@
 # MARKETPLACE 🏬
 
-<img src="https://github.com/user-attachments/assets/4457d2d8-ca4d-40c8-b106-6c819569255e" width="180">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4457d2d8-ca4d-40c8-b106-6c819569255e" width="180">
+</p>
 
 Este marketplace es una plataforma digital avanzada diseñada para conectar compradores y vendedores de manera eficiente. Los usuarios pueden navegar por una amplia variedad de productos organizados en distintas categorías, lo que facilita la búsqueda y selección de artículos específicos.
 
