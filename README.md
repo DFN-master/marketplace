@@ -11,7 +11,7 @@ Este proyecto es un **marketplace** desarrollado con **React.js** en el frontend
 - [Características Principales](#características-principales)
 - [Beneficios para los Usuarios](#beneficios-para-los-usuarios)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Equipo](#equipo)
+- [Desarrollador](#Desarrollador)
 
 ## Características Principales
 
@@ -42,23 +42,18 @@ Este proyecto es un **marketplace** desarrollado con **React.js** en el frontend
 
 ## Beneficios para los Usuarios
 
-✅ Compra Personalizada: Descubre productos que se alinean con tus intereses.
-✅ Ahorro de Tiempo: Encuentra rápidamente lo que buscas con filtros eficientes.
-✅ Seguridad: Transacciones confiables gracias a la autenticación y verificación de usuarios.
-✅ Experiencia de Compra Optimizada: Un marketplace intuitivo, rápido y personalizado.
+- ✅ Compra Personalizada: Descubre productos que se alinean con tus intereses.
+- ✅ Ahorro de Tiempo: Encuentra rápidamente lo que buscas con filtros eficientes.
+- ✅ Seguridad: Transacciones confiables gracias a la autenticación y verificación de usuarios.
+- ✅ Experiencia de Compra Optimizada: Un marketplace intuitivo, rápido y personalizado.
 
 ## Tecnologías Utilizadas
 
-<img src="https://img.shields.io/badge/-NodeJS-1572B6?logo=nodedotjs">
-<img src="https://img.shields.io/badge/-ExpressJS-1572B6?logo=express">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3">
-<img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/-NodeJS-1572B6?logo=nodedotjs"><img src="https://img.shields.io/badge/-ExpressJS-1572B6?logo=express"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3"><img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white">
 
 
-## 🛠 Equipo
+## 🛠 Desarrollador
 
-- &#x20;<a href="https://www.linkedin.com/in/benjamin-peyraga-53812a163/" target="_blank">
+<a href="https://www.linkedin.com/in/benjamin-peyraga-53812a163/" target="_blank">
 <img src="https://img.shields.io/badge/-Benjamin%20Peyraga-0A66C2?logo=linkedin">
 </a>
